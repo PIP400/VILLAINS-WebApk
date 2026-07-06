@@ -1,0 +1,6 @@
+{
+  "name": "6 Deadly Power Villains Pixel Game",
+  "description": "An interactive pixel-art game featuring six deadly power villains with custom animations, abilities, projectiles, action sequences, dialogue bubbles, and retro sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
